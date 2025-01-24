@@ -1,0 +1,3 @@
+# show visual feedback in the sudo prompt
+
+Defaults pwfeedback
