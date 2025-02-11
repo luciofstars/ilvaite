@@ -34,7 +34,7 @@ modules:
     system:
       # If no repo information is specified, Flathub will be used by default
       install:
-        - org.mozilla.firefox
+        - io.gitlab.librewolf-community
         - dev.vencord.Vesktop
     user: {} # Also add Flathub user repo, but no user packages
 
